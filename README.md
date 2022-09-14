@@ -1,3 +1,4 @@
 # NLP_Spelling_Correction_Persian
 
-### Language: Python
+#### Language: Python
+#### Model: Bert
