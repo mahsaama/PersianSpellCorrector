@@ -1,6 +1,6 @@
-# NLP_Spelling_Correction_Persian
+Persian Spelling Correction
 
 #### Language: Python
-#### Model: Bert
+#### Model: pretrained-Bert from 
 
 
