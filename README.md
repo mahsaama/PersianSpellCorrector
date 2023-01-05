@@ -1,6 +1,6 @@
 Persian Spelling Correction
 
 #### Language: Python
-#### Model: pretrained-Bert from HooshvareLab
+#### Model: Pretrained-Bert from HooshvareLab
 
 
